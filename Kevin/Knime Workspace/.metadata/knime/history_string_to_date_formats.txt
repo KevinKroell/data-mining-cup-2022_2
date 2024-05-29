@@ -1,2 +1,0 @@
-yyyy-MM-dd_HH
-dd/MM/yyyy
